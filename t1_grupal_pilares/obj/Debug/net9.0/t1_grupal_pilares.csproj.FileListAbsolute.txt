@@ -1,0 +1,15 @@
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/bin/Debug/net9.0/t1_grupal_pilares
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/bin/Debug/net9.0/t1_grupal_pilares.deps.json
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/bin/Debug/net9.0/t1_grupal_pilares.runtimeconfig.json
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/bin/Debug/net9.0/t1_grupal_pilares.dll
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/bin/Debug/net9.0/t1_grupal_pilares.pdb
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/obj/Debug/net9.0/t1_grupal_pilares.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/obj/Debug/net9.0/t1_grupal_pilares.AssemblyInfoInputs.cache
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/obj/Debug/net9.0/t1_grupal_pilares.AssemblyInfo.cs
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/obj/Debug/net9.0/t1_grupal_pilares.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/obj/Debug/net9.0/t1_grupal_pilares.sourcelink.json
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/obj/Debug/net9.0/t1_grupal_pilares.dll
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/obj/Debug/net9.0/refint/t1_grupal_pilares.dll
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/obj/Debug/net9.0/t1_grupal_pilares.pdb
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/obj/Debug/net9.0/t1_grupal_pilares.genruntimeconfig.cache
+/home/daniel/Desktop/src_universidad/segundo_semestre/t1_grupal_pilares_POO/t1_grupal_pilares/obj/Debug/net9.0/ref/t1_grupal_pilares.dll
